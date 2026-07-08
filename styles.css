@@ -1,6 +1,6 @@
 body {
     background-color: black;
-    background-image: url("C:\\Users\\user\\Documents\\Vknishop\\img\\background-site.png");
+    background-image: url("/img/background-site.png");
 
     background-size: cover;
     background-repeat: no-repeat;
