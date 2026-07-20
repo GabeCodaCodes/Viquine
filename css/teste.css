@@ -1,0 +1,27 @@
+.button {
+    display: block;
+    background-color: rgb(105, 105, 225);
+    max-width: fit-content;
+    padding: 30px;
+    border-radius: 12px;
+    
+}
+.button {
+    transition: 0.3s ease-in-out;
+}
+.button:hover {
+    transform: scale(1.2);
+}
+
+.button #text-button {
+    color: white;
+    font-style: inherit;
+    font-weight: 1000;
+}
+
+.main {
+    color: blue;
+}
+.subsection {
+    color: red;
+}

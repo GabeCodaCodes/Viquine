@@ -1,0 +1,10 @@
+- links and images - links absolutos e links relativos -
+dentro do html existe links relativos e absolutos. 
+links absolutos levam o usuariio a outro site e links relativos levam o usuario
+a outra pagina dentro do propio site, um exemplo é que eu posso
+transitar entre os documentos html da pasta links-and-images usando <a href="nome do outro
+arquivo.html">
+
+- links and images - diretórios -
+diretórios são onde meu site está hospedado, pode ser ne uma pasta
+do meu computador ou um servidor de hospedagem.

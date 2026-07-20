@@ -1,0 +1,14 @@
+o que é o <meta>?
+Os metas são metadores de informações no head do meu site
+eles funcionam como uma etiqueta de uma camisa, que quando lida
+me da informações essenciais sobre meu site; agora troca o 
+eu ler por o navegador ler essas infos.
+
+meta name="viewport"
+avisa o navegador pra se ajustar ao tamanho da tela
+content="width"
+a pagina deve ser do tamanho da tela do dispositivo
+"width=device-width" diz quantos pixels o dispositivo tem 
+pra dizer pro navegador como ele deve trabalhar
+initial-scale=1.0 define o zoom como 100%
+ajuda na hora de mecher com o CSS.

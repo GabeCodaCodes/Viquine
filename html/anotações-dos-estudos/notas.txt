@@ -1,0 +1,9 @@
+eu posso usar um <link="icon"> pra adicionar um favicon (icone
+do meu site que aparece no navegador) ex:
+<head>
+    <link="icon" type="image/formato da imagem" href="caminho pra imagem">
+</head>
+- aqui o link="icon" é a base pro favicon
+- o image/formato diz pro navegador qual o formato da imagem (isso
+é uma boa otimização pros meus sites)
+- o href é o caminho, bro

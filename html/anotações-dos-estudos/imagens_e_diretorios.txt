@@ -1,0 +1,8 @@
+- links and images - diretorios de imagens -
+eu posso usar ../diretorio atual pra encontrar uma
+imagem/arquivo fora do meu diretorio. Os dois pontos [../] me permite
+fazer uma busca um pouco mais profunda entre os diretorios.
+
+- links and images - altura e largura - 
+É sempre muito bom usar higth e widgth pra defir
+as proporções da minha imagem.
