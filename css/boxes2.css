@@ -1,3 +1,21 @@
 * {
-    outline: 2px solid red ;
+    outline: 3px solid red;
+}
+
+#container {
+    color: white;
+    background-color: black;
+
+    width: 40%;
+    max-width: 500px;
+    height: auto;
+
+    padding: 6px;
+    border: 3px dashed blue;
+}
+
+#container_da_susie {
+    margin: 2%;
+    width: 35%;
+    max-width: 350px;
 }

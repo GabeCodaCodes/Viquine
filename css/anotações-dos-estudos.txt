@@ -1,11 +1,15 @@
 usar >> id << pra criar uma classe de um elemento solo
 é a forma mais apropiada
 
+
 quando eu uso ID eu devo chama-lo com >> # <<
+
 
 classes iniciam com >> . <<
 
+
 eu não posso usar numeros no começo de classes e IDs
+
 
 eu posso criar listas de selectors usando esse modelo:
     .titulo1,
@@ -16,6 +20,7 @@ eu posso botar aqui as caracteristicas iguais e depois
 criar um outro selector da minha classe adicionando as
 outras caracteristicas diferentes
 
+
 quando eu quero mexer no fundo no body do meu site
 eu não preciso usar o >> . << no selector:
 body{
@@ -24,16 +29,43 @@ body{
 
 eu consigo fazer umas paradinhas dahoras usando hsl no color
 
+
 o text-align serve pra definir a posição em que o texto vai aparecer
+
 
 o ease-in-out permita que eu crie uma animação suave (usando "s" no final do meu valor em numero):
     transition: 0.3s ease-in-out;
 
+
 eu posso inspecionar sites no win usando Shift + Ctrl + c 
+
 
 eu consigo ver como vai meus containers usando:
 * {
     outline; 2px solid red
 }
+2px - tamanho da linha 
+solid - estilo da linha (solid é mais pratico) há alem do solid: dotted e dashed
+red - cor da linha cridada
 
-o * serve para selecionar tudo o que está na minha pagina/ todos meus seletores 
+
+o * serve para selecionar tudo o que está na minha pagina/ todos meus seletores
+
+
+NUNCA POSSO ME ESQUECER DE LINKAR MEUS DOCUMENTOS.html COM 
+MINNHAS PASTAS.css
+
+
+É sempre muito importante usar o max-() pra acessibilidade de dispositivos.
+
+
+Border-radius arredonda a borda
+text-align alinha o texto no centro do container
+
+
+usar apenas o margin: valor; adiciona a margem pra todos os lados
+
+
+margin - margem de fora do container
+padding - margem interna do container
+border - borda do container 
