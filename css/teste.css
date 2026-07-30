@@ -1,27 +1,33 @@
-.button {
-    display: block;
-    background-color: rgb(105, 105, 225);
-    max-width: fit-content;
-    padding: 30px;
-    border-radius: 12px;
-    
-}
-.button {
-    transition: 0.3s ease-in-out;
-}
-.button:hover {
-    transform: scale(1.2);
+* {
+    outline: 2px solid red;
 }
 
-.button #text-button {
+.titulo {
+    padding: 15px;
+    margin-bottom: 15px;
+    background-color: black;
     color: white;
-    font-style: inherit;
-    font-weight: 1000;
+    justify-items: center;
 }
 
-.main {
-    color: blue;
+#container-pai-superior, #container-pai-inferior {
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    margin-bottom: 10px;
 }
-.subsection {
-    color: red;
+
+.container-filho {
+    width: 40%;
+    height: 200px;
+    border: 5px solid black;
+    background-color: wheat;
+}
+
+.container-filho-flex {
+    display: flex;
+    flex-direction: column;
+    width: 20%;
+    height: 200px;
+    
 }

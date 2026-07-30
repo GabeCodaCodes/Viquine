@@ -69,3 +69,16 @@ usar apenas o margin: valor; adiciona a margem pra todos os lados
 margin - margem de fora do container
 padding - margem interna do container
 border - borda do container 
+
+
+<span></span> serve pra manipular palavras ou frases especificas em um texto html.
+depois é só adicionar uma classe ou id ao meu <span> e voala, já tenho um 
+seletor css.
+
+
+o gap é uma funcionalidade muito importante dentro do dispplay:flex 
+porque ele define um espaço entre os items dentro do meu container: flex
+
+
+devo usar justify-contet: center pra alinhar meu container no meio da tela.
+devo usar justify-items: center pra alinhar items ou um item no meio da tela. 
