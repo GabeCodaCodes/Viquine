@@ -1,0 +1,9 @@
+- let - é a forma de declarar variaveis em js
+eu preciso declarar apenas uma vez com let. depois posso modificar o valor
+da variavel normalmente sem o let. ex:
+primeira vez declarando a variavel n - let n = 1
+segunda vez                          - n = 2
+a variavel n foi declarada com let recebendo o valor 1. 
+mas foi modicada sem o let, recebendo o valor 2
+
+- -
